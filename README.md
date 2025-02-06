@@ -2,7 +2,7 @@
 
 A fun and interactive color guessing game built with **HTML**, **CSS**, and **JavaScript**. Test your color recognition skills by guessing the correct color based on the displayed target color.
 
-## 🚀 [Live Demo](#)
+## 🚀 [https://hngstage1-frontend.netlify.app/](#)
 
 _(Replace `#` with your actual Netlify link)_
 
@@ -47,7 +47,7 @@ _(Optional: Add screenshots or a GIF showcasing the game in action)_
 
 ## 🚀 Deployment
 
-This project is hosted on **Netlify**. Check out the [live demo](#) to play the game! _(Update with your Netlify URL)_
+This project is hosted on **Netlify**. Check out the [https://hngstage1-frontend.netlify.app/](#) to play the game! _(Update with your Netlify URL)_
 
 ## 🙌 Acknowledgments
 
