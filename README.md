@@ -4,7 +4,6 @@ A fun and interactive color guessing game built with **HTML**, **CSS**, and **Ja
 
 ## 🚀 [https://hngstage1-frontend.netlify.app/](#)
 
-_(Replace `#` with your actual Netlify link)_
 
 ## 📋 Features
 
@@ -42,12 +41,16 @@ The following `data-testid` attributes are implemented for easy testing:
 - `newGameButton` - Button to reset the game
 
 ## 📱 Screenshots
+<img width="343" alt="image" src="https://github.com/user-attachments/assets/127ed142-a085-4c6a-8d91-52d3bc4b80b0" /> 
+<img width="296" alt="image" src="https://github.com/user-attachments/assets/97aeef36-bbcb-4f2d-9419-2b4c5391b9b0" />
+<img width="268" alt="image" src="https://github.com/user-attachments/assets/d87ccfee-e2f2-4a54-90f6-d4f04c9718d8" />
 
-_(Optional: Add screenshots or a GIF showcasing the game in action)_
+
+
 
 ## 🚀 Deployment
 
-This project is hosted on **Netlify**. Check out the [https://hngstage1-frontend.netlify.app/](#) to play the game! _(Update with your Netlify URL)_
+This project is hosted on **Netlify**. Check out the [https://hngstage1-frontend.netlify.app/](#) to play the game! 
 
 ## 🙌 Acknowledgments
 
@@ -60,7 +63,3 @@ This project is hosted on **Netlify**. Check out the [https://hngstage1-frontend
 
 - **Name:** [Kiiza Trevour]
 - **LinkedIn/GitHub/Portfolio:** [https://github.com/KIIZA-TREVOUR]
-
----
-
-Let me know if you'd like any modifications! 🚀
