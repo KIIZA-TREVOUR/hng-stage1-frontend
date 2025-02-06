@@ -1,7 +1,3 @@
-Congrats on completing Stage 1 and deploying your project on Netlify! 🚀🎉 Here’s a concise and professional README file you can use for your Color Guessing Game:
-
----
-
 # 🎨 Color Guessing Game
 
 A fun and interactive color guessing game built with **HTML**, **CSS**, and **JavaScript**. Test your color recognition skills by guessing the correct color based on the displayed target color.
@@ -60,10 +56,10 @@ This project is hosted on **Netlify**. Check out the [live demo](#) to play the 
 
 ## 📧 Contact
 
-_Feel free to reach out if you have any questions or feedback!_
 
-- **Name:** [Your Name]
-- **LinkedIn/GitHub/Portfolio:** [Your Links]
+
+- **Name:** [Kiiza Trevour]
+- **LinkedIn/GitHub/Portfolio:** [https://github.com/KIIZA-TREVOUR]
 
 ---
 
