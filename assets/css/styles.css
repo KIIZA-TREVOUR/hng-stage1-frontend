@@ -1,0 +1,120 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2d0a0a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  .incorrect-guesses {
+    font-size: 16px;
+    color: #ff0000;
+    margin: 10px 0;
+  }
+  .game-container {
+    text-align: center;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .color-box {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+  }
+  
+  .color-options {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin: 20px 0;
+  }
+  
+  .color-option {
+    width: 80px;
+    height: 80px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .game-instructions {
+    font-size: 18px;
+    color: #333;
+    margin: 10px 0;
+  }
+  
+  .game-status {
+    font-size: 16px;
+    color: #555;
+    margin: 10px 0;
+  }
+  
+  .score {
+    font-size: 16px;
+    color: #333;
+    margin: 10px 0;
+  }
+  
+  .new-game-button {
+    background-color: #0073b1;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .new-game-button:hover {
+    background-color: #005f8a;
+  }
+  /* styles.css */
+/* Celebration animation for correct color box */
+@keyframes celebrateBox {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.2);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  .celebrate-box {
+    animation: celebrateBox 0.5s ease-in-out;
+  }
+  
+  /* Depressed animation for wrong color boxes */
+  @keyframes depressBox {
+    0% {
+      transform: scale(1);
+      opacity: 1;
+    }
+    50% {
+      transform: scale(0.9);
+      opacity: 0.7;
+    }
+    100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  
+  .depress-box {
+    animation: depressBox 0.5s ease-in-out;
+  }
+  /* Responsive Design */
+  @media (max-width: 600px) {
+    .color-options {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
